@@ -1,0 +1,44 @@
+# ===== Секреты — НИКОГДА не коммитить =====
+# Реальные ключи лежат в .env, этот файл — только шаблон (.env.example коммитим)
+.env
+.env.local
+.env.*.local
+
+# ===== Python =====
+# Виртуальное окружение курса (если скопируется сюда по ошибке)
+.venv/
+venv/
+env/
+ENV/
+
+# Кэш и артефакты
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ===== IDE / редакторы =====
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ===== OS =====
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+Desktop.ini
+
+# ===== Прочее =====
+# Логи
+*.log
+
+# Jupyter — ноутбуки коммитим (они и есть портфолио),
+# но не их временные checkpoint-папки.
