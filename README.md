@@ -26,8 +26,9 @@ My personal learning notes for the **[AI Engineering from Scratch](https://githu
 
 ## Progress
 
-- [x] **Phase 1 / Lesson 01** — Linear Algebra Intuition (notes Steps 1–6 + from-scratch notebook + tutor prompt artifact)
-- [ ] Phase 1 / Lesson 02 — *(next per week-1 plan)*
+- [x] **Phase 1 / Lesson 01** — Linear Algebra Intuition (Step 1: Vectors)
+- [ ] Phase 1 / Lesson 01 — Steps 2–6 (matrices, dot product, rank, projection, Gram-Schmidt)
+- [ ] Phase 1 / Lesson 05 — Chain Rule & Autodiff *(older note, needs review)*
 
 ---
 
